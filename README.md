@@ -48,4 +48,4 @@
 
 ![img-jogo-2](https://user-images.githubusercontent.com/106100298/176795817-34d22450-18c6-4027-be42-5c59d41ecb6d.jpg)
 
-![img-jogo-3](https://user-images.githubusercontent.com/106100298/176817597-5ac495a8-bcb9-439b-9128-eb6111a374c6.jpg)
+![img-jogo-3](https://user-images.githubusercontent.com/106100298/176831406-5c89bf58-1b96-41d4-9c87-bda0a2246a1a.jpg)
