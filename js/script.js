@@ -7,6 +7,7 @@ const audioJump = new Audio("./audio/audio-lightsab.wav");
 const audioGameOver = new Audio("./audio/audio-game-over.mp3");
 const audioStart = new Audio("./audio/star-wars-theme.mp3");
 const scoreGame = document.querySelector(".score");
+const game = document.querySelector(".game");
 
 
 audioStart.play();
@@ -65,7 +66,7 @@ function updateScore(score1) {
   const backgroundGamePosition = backgroundGame.offsetLeft;
   const yodaPosition = +window
     .getComputedStyle(yoda1)
-    .bottom.replace("px", "");
+    .bottom.replace("px", ""); 
 
   if (stormtrooperPosition <= 120 && stormtrooperPosition > 0 && yodaPosition < 115) {
 
@@ -80,12 +81,13 @@ function updateScore(score1) {
 
     yoda1.src = "./Images/yoda-game-over.png";
     yoda1.style.width = "150px";
-    yoda1.style.marginLeft = "45px";
+    yoda1.style.marginLeft = "190px";
 
     audioStart.pause();
     audioGameOver.play();
 
     gameOver.style.visibility = "visible";
+    game.style.display = "flex";
 
     clearInterval(loopGame);
   }
