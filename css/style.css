@@ -226,8 +226,8 @@ button:hover {
     font-size: 80px;
     font-weight: 700;
     color: black;
-    text-shadow: 4px 4px #fcde2b;
-    width: 500px;
+    text-shadow: 3px 3px #fcde2b;
+    width: 550px;
     text-align: center;
 }
 
@@ -275,7 +275,6 @@ button:hover {
     }
     .text-game-over {
         font-size: 50px;
-        text-shadow: 3px 3px #fcde2b;
         width: 350px;
     }
     .logo {
