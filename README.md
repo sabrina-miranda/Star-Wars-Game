@@ -44,8 +44,8 @@
 
 ### Layout Star Wars Game
 
-![img-jogo-1](https://user-images.githubusercontent.com/106100298/176795803-98394de7-f229-478b-a87c-a7971c0d8db1.jpg)
+![print-jogo-01](https://user-images.githubusercontent.com/106100298/222283977-6c117f20-42ca-4b13-9576-1fbbada62257.png)
 
-![img-jogo-2](https://user-images.githubusercontent.com/106100298/176795817-34d22450-18c6-4027-be42-5c59d41ecb6d.jpg)
+![print-jogo-02](https://user-images.githubusercontent.com/106100298/222284127-9a628168-f9fa-4fc6-9f2a-5c3ba0233c04.png)
 
-![img-jogo-3](https://user-images.githubusercontent.com/106100298/176831406-5c89bf58-1b96-41d4-9c87-bda0a2246a1a.jpg)
+![print-jogo-03](https://user-images.githubusercontent.com/106100298/222284239-2c646585-3176-43a8-88a4-40560215c241.png)
