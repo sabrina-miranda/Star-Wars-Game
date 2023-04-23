@@ -66,6 +66,27 @@ button:hover {
     width: 150px;
 }
 
+.dev {
+    color: white; 
+    font-size: 14px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 35px;
+}
+.dev a{
+    color: #fcde2b;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    text-indent: 8px;
+}
+.dev a:hover{
+    color: #dd9002ea;
+}
+
 
 /* ==== JOGO ==== */
 
@@ -262,6 +283,11 @@ button:hover {
     }
     .bt-start {
         width: 110px;
+    }
+
+    .dev, 
+    .dev a {
+        font-size: 12px;
     }
 
     .score {
