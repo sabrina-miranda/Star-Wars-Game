@@ -1,4 +1,6 @@
 # Desafio StartSe 3 - Jogo
+
+## Projeto: Star Wars Game
  
  O desafio era para refatorar o jogo do Mario que foi desenvolvido na Live Coding do módulo 7, do curso da StartSe - Tech Academy - Turma 1.
  
